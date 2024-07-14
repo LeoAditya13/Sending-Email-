@@ -11,9 +11,9 @@ if weekday == 6:
         all_quotes = quote_file.readlines()
         quote = random.choice(all_quotes) 
 # Email configuration
-sender_email = "adityarock704@gmail.com"
-receiver_email ="aksh.ntpc@gmail.com"
-password =  "cypveyenpqgnhgwh"
+sender_email = ""
+receiver_email =""
+password =  ""
 
 # Constructing the email
 message = MIMEMultipart()
