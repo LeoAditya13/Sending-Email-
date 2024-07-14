@@ -2,8 +2,8 @@
 This Python script sends a motivational quote via email to a specified recipient using the SMTP protocol. It uses a text file containing motivational quotes as a source.
 
 # Prerequisites
-Python 3.x installed on your system
-Access to an SMTP server (e.g., Gmail) to send emails
+> Python 3.x installed on your system
+> Access to an SMTP server (e.g., Gmail) to send emails
 
 # Notes
 Ensure your SMTP server allows you to send emails programmatically. For Gmail, you may need to enable "less secure app access" or use an app password if two-factor authentication (2FA) is enabled.
